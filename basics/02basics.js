@@ -41,5 +41,11 @@ console.log("2"===2);
  // 2. Object
  // 3. Functions
  //stack(primitive) . heap(non-primitive)
+
+ console.log("TEMPLATE LITERALs");
+ let name="pragya";
+ let repocnt= 10; 
+ console.log(`hello my name is ${name} and my repo count is ${repocnt}`);
+ 
  
 
